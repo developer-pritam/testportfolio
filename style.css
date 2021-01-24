@@ -577,10 +577,10 @@ section .title::after{
     z-index: 1;
     background: black;
     color: #00FECA;
-    padding: 10px 18px;
-    font-size: 20px;
+    padding: 5px 5px;
+    font-size: 18px;
     font-weight: 500;
-    border-radius: 25px;
+    border-radius: 20px;
     opacity: 0;
     pointer-events: none;
     box-shadow: 0px 10px 10px rgba(0,0,0,0.1);
